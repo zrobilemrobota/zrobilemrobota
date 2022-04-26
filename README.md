@@ -1,6 +1,6 @@
 - 👋 Siemka, jestem @zrobilemrobota
 - 👀 znacie mnie pewnie z przeróżnych socialmedia
-- 🌱 interesuje się mikrokontrolerami i szeroko pojętym programowaniem, choć raczej za wiele nie umiem ;)
+- 🌱 interesuje się mikrokontrolerami i szeroko pojętym programowaniem
 - 📫 w razie jakichkolwiek pytań, piszcie na maila - zrobilemrobota@gmail.com
 
 <!---
